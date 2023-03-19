@@ -46,13 +46,13 @@ You must have the following installed:
 4. Update the TOKEN in `config.js` file.Token would be generated from dashboard `https://app.videosdk.live/dashboard`
 
    ```
-   TOKEN="Your Token Here"
+   TOKEN="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlrZXkiOiIxZTQ3YjRkMi0xMWViLTQyZTMtYTEwYS1mZTU3NzlhOTkwMzgiLCJwZXJtaXNzaW9ucyI6WyJhbGxvd19qb2luIl0sImlhdCI6MTY3OTIxOTI0OCwiZXhwIjoxNjgxODExMjQ4fQ.EcT4KrfODvWwEYt4mFj8vSy58PsA0px1mlSvbrYp_mo"
    ```
 
 5. If one doesn't want to give their token then they can generate token using AUTH_URL of their own in `config.js` file
 
    ```
-   AUTH_URL=one's auth url
+   AUTH_URL=https://flybirdinc.github.io/Videoweb
    ```
 
 6. Run the app
