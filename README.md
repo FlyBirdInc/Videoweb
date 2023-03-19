@@ -45,13 +45,13 @@ You must have the following installed:
 
 4. Update the TOKEN in `config.js` file.Token would be generated from dashboard `https://app.videosdk.live/dashboard`
 
-   ```
+   ```bash
    TOKEN="Your Token Here"
    ```
 
 5. If one doesn't want to give their token then they can generate token using AUTH_URL of their own in `config.js` file
 
-   ```
+   ```bash
    AUTH_URL=one's auth url
    ```
 
