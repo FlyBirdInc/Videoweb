@@ -1,2 +1,2 @@
-AUTH_URL = "";
+AUTH_URL = "https://flybirdinc.github.io/Videoweb/";
 TOKEN = "";
