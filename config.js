@@ -1,2 +1,2 @@
 AUTH_URL = "https://flybirdinc.github.io/Videoweb/";
-TOKEN = "";
+TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlrZXkiOiIxZTQ3YjRkMi0xMWViLTQyZTMtYTEwYS1mZTU3NzlhOTkwMzgiLCJwZXJtaXNzaW9ucyI6WyJhbGxvd19qb2luIl0sImlhdCI6MTY3OTIyMTI5NiwiZXhwIjoxNzEwNzU3Mjk2fQ.Fld89OUJ5sSZWTSmKYB-E_yEmOwxJ4WVnBI9FnaoM6g";
